@@ -1,0 +1,5 @@
+# Ignorera virtuella miljö (myenv)
+myenv/
+venv/
+*.env
+
