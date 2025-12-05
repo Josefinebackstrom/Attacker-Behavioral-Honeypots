@@ -79,8 +79,10 @@ pip install -r requirements.txt
 
 ```
 
-## Collaborators
-- .... länka till er
+## 👥 Collaborators
+- [**Evelina Mizzaro**](https://github.com/evelinamizzaro)
+- [**Hannah Svensson**](https://github.com/hasvcmd)
+
 
 
 
