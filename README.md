@@ -47,7 +47,7 @@ What the Notebook Does
 
 This is a project in the course Cybersecurity at the University of Bologna (UNIBO) with the research question: 
 1. Can clustering methods effectively group SSH honeypot attackers into meaningful behavioral profiles such as bots, script kiddies, and skilled human operators based on their command sequences, interaction patterns, and session-level behavioral features?
-
+2. Can unsupervised machine-learning methods identify and separate attackers into distinct behavioral profiles (e.g., automated bots, script kiddies, and human operators) based solely on their command sequences and interaction patterns in SSH honeypots?
 
 ## Dataset 
 
@@ -79,8 +79,10 @@ pip install -r requirements.txt
 
 ```
 
-## Collaborators
-- .... länka till er
+## 👥 Collaborators
+- [**Evelina Mizzaro**](https://github.com/evelinamizzaro)
+- [**Hannah Svensson**](https://github.com/hasvcmd)
+
 
 
 
